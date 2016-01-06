@@ -11,9 +11,9 @@ The project also contains code to generate random dummy time series.
 
 The project doesn't need any dependency so you can just execute it:
 
-    ```bash
-    python mean_alignment.py
-    ```
+```bash
+python mean_alignment.py
+```
 
 ### About the one-sided mean alignment kernel
 
